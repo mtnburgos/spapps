@@ -1,0 +1,1 @@
+console.log("requirejs is working. Here put your initialization stuff!!!");
